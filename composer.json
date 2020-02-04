@@ -1,14 +1,14 @@
 {
-    "name": "imath/risk-ops",
-    "description": "Gestion de l'identication et de la maîtrise des risques opérationnels.",
-    "type": "wordpress-plugin",
-    "require": {
-      "squizlabs/php_codesniffer" : "^3.3.1"
-    },
-    "require-dev": {
-      "dealerdirect/phpcodesniffer-composer-installer": "*",
-      "phpcompatibility/phpcompatibility-wp" : "*",
-      "wp-coding-standards/wpcs": "*"
-    }
+  "name": "imath/wp-block-attributes",
+  "description": "Introduce a new WP_Query parameter to run block attributes queries.",
+  "type": "wordpress-plugin",
+  "require": {
+    "squizlabs/php_codesniffer" : "^3.3.1"
+  },
+  "require-dev": {
+    "dealerdirect/phpcodesniffer-composer-installer": "*",
+    "phpcompatibility/phpcompatibility-wp" : "*",
+    "wp-coding-standards/wpcs": "*"
   }
+}
   
