@@ -4,7 +4,7 @@ Introduce a new WP_Query parameter to run block attributes queries. Here's an ex
 
 ```php
 $q = new WP_Query();
-$items = $get_posts->query( 
+$items = $q->query( 
 	array(
 		'post_type' => 'post',
 		array(
