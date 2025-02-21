@@ -1,5 +1,7 @@
 # WP Query Block Attributes
 
+**This WP Plugin is no more maintained and is now archived**
+
 Introduce a new WP_Query parameter to run block attributes queries. Here's an example of use:
 
 ```php
